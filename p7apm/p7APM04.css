@@ -1,0 +1,92 @@
+/* 
+  -----------------------------------
+  Accordion Panel Magic
+  by Project Seven Development
+  www.projectseven.com
+  Style Theme: 04 - Bluestone
+  -----------------------------------
+*/
+
+.p7APM04 {
+	font-family: Arial, Helvetica, sans-serif;
+	border: 1px solid #000;
+	padding: 1px;
+	font-size: 12px;
+	margin: 0 auto;
+	width: auto;
+}
+.p7APM04 .p7APMtrig {
+	margin: 0;
+	padding: 0;
+	background-image: url(img/p7apm_bluestone.jpg);
+	background-repeat: repeat-x;
+	background-color: #4892C1;
+}
+.p7APM04 .p7APMtrig h3, .p7APM04 .p7APMtrig h4 {
+	margin: 0 !important;
+	padding: 0 !important;
+	letter-spacing: normal !important;
+	font-size: 14px;
+}
+.p7APM04 .p7APMtrig a {
+	display: block;
+	text-decoration: none;
+	padding: 5px 10px 5px 20px;
+	color: #000 !important;
+	font-weight: normal;
+	background-image: url(img/p7apm_east_black.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	border-bottom: 1px solid #3A7EA7;
+	border-top: 1px solid #85B8D6;
+}
+.p7APM04 .p7APMtrig .p7APM_ext, .p7APM04 .p7APMtrig .p7APM_ext.p7APMtrig_down {
+	background-image: url(img/p7apm_page_black.gif) !important;
+	background-color: transparent !important;
+	color: #000 !important;
+	border-bottom: 1px solid #3A7EA7 !important;
+	border-top: 1px solid #85B8D6 !important;
+	letter-spacing: 0.1em !important;
+}
+.p7APM04 .p7APMtrig a:hover {
+	color: #FFF !important;
+	background-color: transparent !important;
+}
+.p7APM04 .p7APMtrig a:active, .p7APM04 .p7APMtrig a:focus {
+	outline: 1px dotted #ccc;
+}
+.p7APM04 .p7APMtrig .p7APMtrig_down, .p7APM04 .p7APMtrig .p7APMtrig_down:hover {
+	letter-spacing: 0.15em;
+	background-image: url(img/p7apm_south_gray.gif) !important;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-color: #000 !important;
+	color: #CCC !important;
+	border-color: #000 !important;
+}
+.p7APM04 .p7APMtrig .p7APMtrig_down:hover {
+	color: #FFF !important;
+}
+.p7APM04 .p7APMcwrapper {
+	position: relative;
+}
+.p7APM04 .p7APMpanelcontent {
+	padding: 20px;
+	line-height: 1.5em;
+	background-image: url(img/p7apm_bevel_white.jpg);
+	background-repeat: repeat-x;
+	background-color: #FFF;
+}
+.p7APM04 .p7APMcontent h2, .p7APM04 .p7APMcontent h3, 
+.p7APM04 .p7APMcontent h4 {
+	font-size: 14px;
+	margin: 0px;
+	line-height: normal;
+	letter-spacing: 0.1em;
+}
+.p7APM04 .p7APMcontent p {
+	margin: 6px 0;
+}
+.p7APM04 .current_mark {
+	font-weight: bold !important;
+}

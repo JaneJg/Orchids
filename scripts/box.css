@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+#boxes a:link {
+	color:#616161;font:bold 11px Arial,serif,sans-serif;letter-spacing:.1em;text-decoration:none; background-color:#e9efe4; border:1px; border-style:solid; border-color: #d2d7d7;padding: 3px 6px 3px 8px;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px; text-shadow:1px 1px 0px #ffffff;-moz-box-shadow:inset 0px 1px 0px 0px #ffffff; -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff; box-shadow:inset 0px 1px 0px 0px #ffffff;
+}
+#boxes a:visited {
+	color:#616161;font:bold 11px Arial,serif,sans-serif;letter-spacing:.1em;text-decoration:none; background-color:#e9efe4; border:1px; border-style:solid; border-color: #d2d7d7;padding: 3px 6px 3px 8px;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px; text-shadow:1px 1px 0px #ffffff;-moz-box-shadow:inset 0px 1px 0px 0px #ffffff; -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff; box-shadow:inset 0px 1px 0px 0px #ffffff;
+}
+#boxes a:hover, #footer a:focus, #footer a:active {
+	color:#616161;font:bold 11px Arial,serif,sans-serif;letter-spacing:.1em;text-decoration:none; background-color:#d1dfc6; border:1px; border-style:solid; border-color: #d2d7d7;padding: 3px 6px 3px 8px;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px; text-shadow:1px 1px 0px #ffffff;-moz-box-shadow:inset 0px 1px 0px 0px #ffffff; -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff; box-shadow:inset 0px 1px 0px 0px #ffffff;
+}
